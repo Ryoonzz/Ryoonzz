@@ -1,7 +1,7 @@
 👋 Hi, Aku @Ryoonzz, aslinya sih Achmad Dandy C.R
-👀 Aku suka dengerin musik dan main game
-🌱 Sekarang aku bersekolah di SMK Negeri 2 Bangkalan
-📫 Kalau mau menghubungiku bisa lewat instagram @Ryoonzz aja
+👀 Aku suka dengerin musik dan main game.
+🌱 Sekarang aku bersekolah di SMK Negeri 2 Bangkalan.
+📫 Kalau mau menghubungiku bisa lewat instagram @Ryoonzz aja.
 Ywdh sih gini aja hehe
 
 <!---
