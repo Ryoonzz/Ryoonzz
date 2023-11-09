@@ -1,10 +1,11 @@
-👋 Hi, Aku @Ryoonzz, aslinya sih Achmad Dandy C.R
-👀 Aku suka dengerin musik dan main game.
-🌱 Sekarang aku bersekolah di SMK Negeri 2 Bangkalan.
-📫 Kalau mau menghubungiku bisa lewat instagram @Ryoonzz aja.
-Ywdh sih gini aja hehe
+👋 Halo, Aku Ryoonzz, sebenarnya sih Achmad Dandy!
 
-<!---
-Ryoonzz/Ryoonzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Siswa di SMK Negeri 2 Bangkalan, jurusan Rekayasa Perangkat Lunak atau Pengembangan Perangkat Lunak dan Gim.
+
+💻 Ingin menjadi programmer yang menciptakan solusi kreatif. Beberapa proyek yang sudah aku buat termasuk web portofolio, web aplikasi peminjaman buku perpustakaan, dan web todo list.
+
+🚀 Pernah belajar dengan berbagai bahasa pemrograman, termasuk Python, HTML, CSS, dan JavaScript.
+
+🔗 Terbuka untuk kolaborasi dan belajar bersama. Ayo jelajahi dunia coding bersama-sama!
+
+Happy coding! ✨
