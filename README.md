@@ -1,11 +1,5 @@
-👋 Halo, Aku Ryoonzz, sebenarnya sih Achmad Dandy!
-
-🎓 Siswa di SMK Negeri 2 Bangkalan, jurusan Rekayasa Perangkat Lunak atau Pengembangan Perangkat Lunak dan Gim.
-
-💻 Ingin menjadi programmer yang menciptakan solusi kreatif. Beberapa proyek yang sudah aku buat termasuk web portofolio, web aplikasi peminjaman buku perpustakaan, dan web todo list.
-
-🚀 Pernah belajar dengan berbagai bahasa pemrograman, termasuk Python, HTML, CSS, dan JavaScript.
-
-🔗 Terbuka untuk kolaborasi dan belajar bersama. Ayo jelajahi dunia coding bersama-sama!
-
-Happy coding! ✨
+🎓 I'm currently studying in SMKN 2 Bangkalan, Madura, East Java, Indonesian.
+🤝 I’m looking for help with competitive programming because I want to level up my coding skills.
+🌱 I'm currently learning Laravel to make my PHP website development easier.
+📫 How to reach me: Shoot me an email at achdandycr01@gmail.com and let's connect
+⚡ Fun fact: I love playing games, listening to music and watching movies.
